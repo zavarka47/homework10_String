@@ -55,7 +55,5 @@ public class Main {
         //– Результат программы выведен в консоль согласно условиям задачи.
         String fullName2 = fullName.replace('ё', 'е');
         System.out.println("Данные ФИО сотрудника - " + fullName2);
-
-
     }
 }
